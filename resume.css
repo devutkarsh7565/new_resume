@@ -154,6 +154,10 @@ a:hover {
   color: var(--accent-color);
   font-size: 13px;
 }
+.gaping {
+  display: flex;
+  justify-content: flex-start;
+}
 .marks {
   font-weight: 700;
   display: inline;
